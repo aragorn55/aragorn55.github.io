@@ -1,0 +1,168 @@
+MRH4287/FFNetParser: A Userscript for www.fanfiction.net that allowes keyword based marking
+https://github.com/MRH4287/FFNetParser
+
+jabagawee/FanFiction.Net-API: An unofficial, passive API to FanFiction.Net.
+https://github.com/jabagawee/FanFiction.Net-API
+
+tkshnwesper/fanfiction: Java API for fanfiction.net
+https://github.com/tkshnwesper/fanfiction
+
+jblake/fanfiction: Site-ripper for various fanfiction sites, in order to allow offline reading on Android devices with MoonReader.
+https://github.com/jblake/fanfiction
+
+colah/Fanfiction-Graphs-Post: A blog post on analyzing fanfiction through graphs!
+https://github.com/colah/Fanfiction-Graphs-Post
+
+ssokolow/languagetool-fanfiction: LanguageTool rules for common fanfiction typos
+https://github.com/ssokolow/languagetool-fanfiction
+
+lesma/FanFiction-Tools: This is a port of the greasemonkey script from https://greasyfork.org/en/forum/discussion/789/modified-1-7-2 into a firefox extension which does not requre greasemonkey
+https://github.com/lesma/FanFiction-Tools
+
+JonathanMeans/FanfictionAPI: An API for accessing fanfiction.net data
+https://github.com/JonathanMeans/FanfictionAPI
+
+KebinuChiousu/FanfictionDB: Fanfiction Downloader and Library
+https://github.com/KebinuChiousu/FanfictionDB
+
+yawkat/fanfiction-api
+https://github.com/yawkat/fanfiction-api
+
+mihi314/selectable-fanfiction: Userscript that makes text on fanfiction.net selectable
+https://github.com/mihi314/selectable-fanfiction
+
+MarsCapone/fanfiction-api: fanfiction api based off https://github.com/jabagawee/FanFiction.Net-API
+https://github.com/MarsCapone/fanfiction-api
+
+rachelmad/Fanfiction-Checker: A Python script that stores favorite stories and checks whether or not they've been updated
+https://github.com/rachelmad/Fanfiction-Checker
+
+SirCxyrtyx/Better-Fanfiction: Chrome Extension for FanFiction.net
+https://github.com/SirCxyrtyx/Better-Fanfiction
+
+Nyxeka/Fanfiction-Extractor: Multi-threaded fanfiction extractor
+https://github.com/Nyxeka/Fanfiction-Extractor
+
+djfye/Fanfiction_Tools
+https://github.com/djfye/Fanfiction_Tools
+
+k0pernikus/Better-fanfiction.net: Chrome Extension that tweaks fanfiction.net
+https://github.com/k0pernikus/Better-fanfiction.net
+
+benwurth/Fanfiction-Data-Tools: A suite of tools for collecting, organizing, and visually displaying data from fanfiction websites.
+https://github.com/benwurth/Fanfiction-Data-Tools
+
+OneTab
+chrome-extension://chphlpgkkbolifaimnlloiipkdnihall/onetab.html
+
+Settings
+chrome://settings/
+
+Search · adultfanfiction
+https://github.com/search?p=2&q=adultfanfiction&ref=searchresults&type=Code&utf8=%E2%9C%93
+
+MarsCapone/ff-downloader: download from fanfiction.net
+https://github.com/MarsCapone/ff-downloader
+
+Etana/ffindex: fanfiction.net local index
+https://github.com/Etana/ffindex
+
+KoderKat/keyblade: A Fanfiction Knowledge Base
+https://github.com/KoderKat/keyblade
+
+fajarrizky161/fanfiction-jkt48-project
+https://github.com/fajarrizky161/fanfiction-jkt48-project
+
+Zeks/ffnet_search: Search app for fanfiction net
+https://github.com/Zeks/ffnet_search
+
+MRH4287/FFNetParser: A Userscript for www.fanfiction.net that allowes keyword based marking
+https://github.com/MRH4287/FFNetParser
+
+WangAnqi/FanFictionFugue
+https://github.com/WangAnqi/FanFictionFugue
+
+JosephGAdams/FanFictionSuite: Download, read and create ebooks using various fanfiction websites.
+https://github.com/JosephGAdams/FanFictionSuite
+
+iarna/HPMoR: Mirror of http://hpmor.com/ as fetched from Fanfiction.net via Perl's WWW::FetchStory
+https://github.com/iarna/HPMoR
+
+robyurkowski/ffscraper: A web scraper for fanfiction.net.
+https://github.com/robyurkowski/ffscraper
+
+dimavs/ffd: fanfiction.net downloader for my son
+https://github.com/dimavs/ffd
+
+grinnbearit/metafiction: Analysis of authors and stories on http://fanfiction.net
+https://github.com/grinnbearit/metafiction
+
+phroneein/fic-link-bucket: Grabs and sorts story links from given fanfiction page.
+https://github.com/phroneein/fic-link-bucket
+
+bluba/FimFicManager
+https://github.com/bluba/FimFicManager
+
+psamp/ficcy: The webapp for people who read too much fanfiction.
+https://github.com/psamp/ficcy
+
+dani-radulov/Fanshelf-v2.0: A new way to organize your favourite fanfiction.
+https://github.com/dani-radulov/Fanshelf-v2.0
+
+marvinpeter95/Metatron: Download fan fictions from Wattpad and Fanfiction.net.
+https://github.com/marvinpeter95/Metatron
+
+ankhzet/SVFetcher: SufficientVelocity.com & SpaceBattles.com fanfiction forum thread fetcher
+https://github.com/ankhzet/SVFetcher
+
+marvinpeter95/Metatron-Swift: Download fan fictions from Wattpad and Fanfiction.net.
+https://github.com/marvinpeter95/Metatron-Swift
+
+rob-a-bolton/fanfy: A tool to download whole text from fanfiction.net
+https://github.com/rob-a-bolton/fanfy
+
+popupman/Fan-Fiction-Farmer
+https://github.com/popupman/Fan-Fiction-Farmer
+
+jblake/remote-ff: Reimplementation of my fanfiction scraper, designed to be simpler to maintain and to support network sync
+https://github.com/jblake/remote-ff
+
+alethiophile/ffmirror: A program to create a local mirror of stories from fanfiction sites
+https://github.com/alethiophile/ffmirror
+
+sethten/ficbot: FicBot is a Google Chrome extension which allows you to easily generate a formatted PDF from a fanfiction.
+https://github.com/sethten/ficbot
+
+yendenikhil/LibraryMaker: Here we will work to parse fanfiction.net and create books in various formats like epub, pdf, text etc.
+https://github.com/yendenikhil/LibraryMaker
+
+jimah/ffs: Scraper for www.fanfiction.net, requested by friend, not me, I don't read fan fiction, I'm not a nerd.
+https://github.com/jimah/ffs
+
+HPFFA/sweetFiction: sweetFiction is intendet to be a new CMS specialized for managing stories like fanfictions. It is based on CakePHP 2.3 and is currently in the first stages of development. >>> Currently this framework is not further developed since we are (better I am) concentrating on the extension of the current efiction based system published on https://bitbucket.org/check/efiction <<<
+https://github.com/HPFFA/sweetFiction
+
+otwstephanie/otwarchive4: test2
+https://github.com/otwstephanie/otwarchive4
+
+otwstephanie/otwarchive3: Clone of OTWarchive, for merge testing
+https://github.com/otwstephanie/otwarchive3
+
+otwstephanie/sotwarchvie: Simplified fork of otwarchive
+https://github.com/otwstephanie/sotwarchvie
+
+tusing/reddit-ffn-bot: A reddit auto reply bot.
+https://github.com/tusing/reddit-ffn-bot
+
+SeanWH/FFBrowser: Specialized web-browser for reading (and archiving) fan-fiction.
+https://github.com/SeanWH/FFBrowser
+
+stefanhayden/FanFiction-Organizer: Mark stories as like or dislike to color code and organize on fanfiction.net
+https://github.com/stefanhayden/FanFiction-Organizer
+
+vsm · ajtheprogod/nlp-Project@b5f4285
+https://github.com/ajtheprogod/nlp-Project/commit/b5f4285428272796ef35b4c90fc0cd46c4cf095b
+
+adeel-zafar/web-mining
+https://github.com/adeel-zafar/web-mining
+
